@@ -1,0 +1,1 @@
+Here,in this java question file i have completed four question that are: "is given number even ?","is given number odd?","to print last digit of the given number" and "to print the second last digit of given number"
